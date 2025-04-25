@@ -57,6 +57,7 @@ Displayed as card visuals:
 ## Insights & Visual Analysis
 
 |Visual|Description|
+|---|---|
 |Average Price by Room Type|Clustered column chart comparing cost between Shared, Private, and Entire homes|
 |Neighbourhood Popularity|Horizontal bar chart showing average monthly reviews per neighborhood group|
 |Top Listings Table|Table of most-reviewed listings with high availability|
